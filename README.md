@@ -26,18 +26,20 @@ These are the exact topics I studied and summarized:
 
 ## 🎥 Tutorial Timeline (My Notes)
 
-00:00 – Introduction to AWS VPC
-00:41 – What is AWS VPC & Why Use It?
-03:28 – VPC inside the overall AWS Public Cloud
-07:41 – How public & private subnets access the Internet
-09:55 – Creating your AWS VPC
-11:36 – Setting up Public & Private Subnets
-14:46 – Configuring Internet Gateway (IGW)
-16:07 – Creating & Associating Route Tables
-21:07 – Setting up NAT Gateway for Private Subnet
-24:56 – Launching an EC2 Instance
-29:58 – SSH into the EC2 Server
-33:00 – Deleting AWS Resources
+📺 **Full Tutorial Video:** https://www.youtube.com/watch?v=pfcHN5sPpCI  
+
+- **00:00** – Introduction to AWS VPC  
+- **00:41** – What is AWS VPC & Why Use It?  
+- **03:28** – VPC inside the overall AWS Public Cloud  
+- **07:41** – How public & private subnets access the Internet  
+- **09:55** – Creating your AWS VPC  
+- **11:36** – Setting up Public & Private Subnets  
+- **14:46** – Configuring Internet Gateway (IGW)  
+- **16:07** – Creating & Associating Route Tables  
+- **21:07** – Setting up NAT Gateway for Private Subnet  
+- **24:56** – Launching an EC2 Instance  
+- **29:58** – SSH into the EC2 Server  
+- **33:00** – Deleting AWS Resources  
 
 
 ---
