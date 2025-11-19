@@ -44,7 +44,8 @@ These are the exact topics I studied and summarized:
 
 ## 🖼️ AWS VPC Architecture Diagram (Blueprint Style)
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c00babf7-1ca1-4e23-85be-ecc2dda2ee91" />
+[<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c00babf7-1ca1-4e23-85be-ecc2dda2ee91" />
+](https://jayendrapatil.com/wp-content/uploads/2016/03/AWS-VPC-Components.png)
 ---
 
 
